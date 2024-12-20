@@ -1,5 +1,5 @@
 version: pipelines/v0.1
-name: Postgres Warehouse
+name: Do Thing
 timeout: 0
 max_retries: 0
 data_components:
